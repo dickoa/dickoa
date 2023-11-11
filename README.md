@@ -24,7 +24,7 @@ Here's a glimpse of some key projects:
 
 #### 💡 **Skills & Expertise**
 - **Languages**: English, French
-- **Programming**: R, Julia, Python, C, C++
+- **Programming**: R, Julia, Python, Stan, C, C++
 - **Databases & GIS**: DuckDB, PostgreSQL, GRASS GIS
 - **Data Collection Tools**: ODK, KoboToolbox
 - **Data Visualization**: ggplot2, Observable
