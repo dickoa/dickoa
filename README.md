@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Ahmadou Dicko!
 
-#### 📊 **Statistician & Data Scientist*
+#### 📊 **Statistician & Data Scientist**
 
 With over a decade of experience in the field of data science and statistics, I specialize in leveraging data-driven methodologies to tackle development challenges, particularly in humanitarian contexts.
 
