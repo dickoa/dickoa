@@ -17,6 +17,7 @@ Here's a glimpse of some key projects:
 
 - [**robotoolbox**](https://CRAN.R-project.org/package=robotoolbox): A comprehensive R package providing tools for accessing [Kobotoolbox](https://www.kobotoolbox.org) data in a tidy format.
 - [**refugees**](https://CRAN.R-project.org/package=refugees): An R package dedicated to analyzing and visualizing forced displacement data from the [Refugee Data Finder](https://www.unhcr.org/refugee-statistics/download/).
+- [**rgeounbdaries**](https://github.com/wmgeolab/rgeoboundaries): A client for the [geoBoundaries API](https://www.geoboundaries.org/), providing country political administrative boundaries.
 - [**rhdx**](https://gitlab.com/dickoa/rhdx): Access to the Humanitarian Data Exchange platform ([HDX](https://data.humdata.org)) and integration for humanitarian data science.
 - [**racled**](https://gitlab.com/dickoa/racled): Access to the [Armed Conflict Location & Event Data Project (ACLED)](https://acleddata.com/) data for conflict analysis.
 - [**prepr**](https://gitlab.com/dickoa/prepr): A port of an innovative algorithm to clean spatial polygons.
